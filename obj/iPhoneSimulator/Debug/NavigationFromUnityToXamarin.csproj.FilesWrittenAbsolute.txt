@@ -1,0 +1,13 @@
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/NavigationFromUnityToXamarin.pdb
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/NavigationFromUnityToXamarin.exe
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/NavigationFromUnityToXamarin.exe
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/obj/iPhoneSimulator/Debug/NavigationFromUnityToXamarin.pdb
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/Google.Apis.Core.dll
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/Google.Apis.dll
+/Users/binrucao/Documents/Xamarin/NavigationFromUnityToXamarin/NavigationFromUnityToXamarin/bin/iPhoneSimulator/Debug/Google.Maps.dll
