@@ -6,11 +6,12 @@ namespace NavigationFromUnityToXamarin
 {
 	// The UIApplicationDelegate for the application. This class is responsible for launching the
 	// User Interface of the application, as well as listening (and optionally responding) to application events from iOS.
+	// AIzaSyBpwHJD6B7Xvs9BjYZt5PaYUYt7_7v96ZA
 	[Register("AppDelegate")]
 	public class AppDelegate : UIApplicationDelegate
 	{
 		// class-level declarations
-		const string MapsApiKey = "AIzaSyBpwHJD6B7Xvs9BjYZt5PaYUYt7_7v96ZA";
+		const string MapsApiKey = "***";
 		public override UIWindow Window
 		{
 			get;
